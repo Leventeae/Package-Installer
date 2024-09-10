@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\bin\Release\Zimbo Package Installer.exe.config
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\bin\Release\Zimbo Package Installer.exe
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\bin\Release\Zimbo Package Installer.pdb
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\obj\Release\Zimbo Package Installer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\obj\Release\Zimbo_Package_Installer.form1.resources
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\obj\Release\Zimbo_Package_Installer.Properties.Resources.resources
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\obj\Release\Zimbo Package Installer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\obj\Release\Zimbo Package Installer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\obj\Release\Zimbo Package Installer.exe
+C:\Users\User\source\repos\Zimbo Package Installer\Zimbo Package Installer\obj\Release\Zimbo Package Installer.pdb
